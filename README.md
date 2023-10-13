@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi, I'm Nicole 👋
 
-<!--
-**Nicolemci/Nicolemci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a junior Web Developer, living in London, United Kingdom.
 
-Here are some ideas to get you started:
+I complete a Full Stack Web Developer course at Le Wagon in 2023.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🌱 I’m currently working to improve my skills on CSS and JavaScript.
+
+
+😄 I most enjoy working on backend parts of websites.
+
+
+📝 My bootcamp projects :
+ Mapple - http://www.mapplegame.me/
+
+📫 How to reach me, nicolemci@hotmail.com
